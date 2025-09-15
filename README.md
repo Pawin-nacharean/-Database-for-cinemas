@@ -1,1 +1,1 @@
-# -Database-for-cinemas
+# Database-for-cinemas
